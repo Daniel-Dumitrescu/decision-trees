@@ -1,1 +1,1 @@
-# decision-trees
+This GitHub repository contains a Java program to calculate decision tree metrics (support, confidence, interest and lift) for a decision tree that is produced from a raw dataset. The metrics are calculated for each branch that the dataset is split into to illustrate the gain in information and usefulness of each particular split of the dataset in the decision tree.  
